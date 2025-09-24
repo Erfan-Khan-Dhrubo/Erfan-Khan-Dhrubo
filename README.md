@@ -10,7 +10,8 @@
 
 <!-- Side-by-side text and GIF -->
 <p>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA1Mmo0ZHhzd3lvdXE1cXlpZ2E0bjFteTBuYTV0cHY3emdma2Q2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="Coding GIF" width="250" align="right" style="margin-left: 20px;"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA1Mmo0ZHhzd3lvdXE1cXlpZ2E0bjFteTBuYTV0cHY3emdma2Q2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" 
+       alt="Coding GIF" width="250" align="right" style="margin-left: 20px; margin-bottom: 10px;"/>
   
   <b>🚀 Current Activities</b><br><br>
   🔭 Currently learning <b>CUDA programming</b> and exploring <b>GPU optimization</b><br>
@@ -18,13 +19,75 @@
   ⚡ Fun fact: I am from <b>CSE</b>, love <b>game development</b>, building <b>GUIs</b>, and experimenting with <b>AI & parallel computing</b>!
 </p>
 
-<table>
+<!-- Frontend -->
+### Frontend
+<table style="margin-bottom:15px;">
   <tr>
-    <td><img src="images/gameDevelopment/c1.png" width="400" /></td>
-    <td><img src="media/pic5.png" width="400" /></td>
+    <td align="center" width="80" height="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /><br><sub style="font-size:12px;">HTML5</sub>
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /><br><sub style="font-size:12px;">CSS3</sub>
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /><br><sub style="font-size:12px;">JavaScript</sub>
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /><br><sub style="font-size:12px;">React</sub>
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /><br><sub style="font-size:12px;">Tailwind</sub>
+    </td>
   </tr>
+</table>
+
+<!-- Backend -->
+### Backend
+<table style="margin-bottom:15px;">
   <tr>
-    <td style="text-align:center;"><img src="media/pic3.png" width="400" /></td>
+    <td align="center" width="80" height="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /><br><sub style="font-size:12px;">NodeJS</sub>
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" /><br><sub style="font-size:12px;">Express</sub>
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" /><br><sub style="font-size:12px;">PHP</sub>
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /><br><sub style="font-size:12px;">MySQL</sub>
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /><br><sub style="font-size:12px;">MongoDB</sub>
+    </td>
   </tr>
-</table>  
+</table>
+
+<!-- Game Development -->
+### Game Development
+<table style="margin-bottom:15px;">
+  <tr>
+    <td align="center" width="80" height="80">
+      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" /><br><sub style="font-size:12px;">Unity</sub>
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" /><br><sub style="font-size:12px;">C#</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- Other -->
+### Other
+<table style="margin-bottom:30px;">
+  <tr>
+    <td align="center" width="80" height="80">
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" /><br><sub style="font-size:12px;">Arduino</sub>
+    </td>
+    <td align="center" width="80" height="80">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /><br><sub style="font-size:12px;">Git</sub>
+    </td>
+  </tr>
+</table>
+
+
 
