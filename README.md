@@ -20,18 +20,11 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="images/gameDevleopment/c#.jpg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/UnityTechnologies/UnityCsReference/master/Documentation~/DocImages/Unity-icon.png" width="48" height="48" alt="Unity" />
-      </a>
-      <br>Unity
-    </td>
+    <td><img src="images/gameDevelopment/c1.png" width="400" /></td>
+    <td><img src="media/pic5.png" width="400" /></td>
   </tr>
-</table>
+  <tr>
+    <td style="text-align:center;"><img src="media/pic3.png" width="400" /></td>
+  </tr>
+</table>  
 
