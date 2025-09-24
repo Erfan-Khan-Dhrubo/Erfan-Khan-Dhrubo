@@ -18,3 +18,20 @@
   ⚡ Fun fact: I am from <b>CSE</b>, love <b>game development</b>, building <b>GUIs</b>, and experimenting with <b>AI & parallel computing</b>!
 </p>
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="images/gameDevleopment/c#.jpg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/UnityTechnologies/UnityCsReference/master/Documentation~/DocImages/Unity-icon.png" width="48" height="48" alt="Unity" />
+      </a>
+      <br>Unity
+    </td>
+  </tr>
+</table>
+
