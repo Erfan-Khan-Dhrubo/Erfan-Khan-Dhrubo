@@ -4,7 +4,7 @@
        alt="Header" 
        width="100%" />
 </p>
-
+<br><br>
 <a href="#macropower-title">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA1Mmo0ZHhzd3lvdXE1cXlpZ2E0bjFteTBuYTV0cHY3emdma2Q2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="macropower" align="right" width="300px"/>
 </a>
@@ -13,10 +13,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Full+Stack+Developer;Game+Developer;Python+Enthusiast" alt="Typing: Full Stack Developer, Game Developer, Python Enthusiast" />
 </p>
 
-<b>🚀 Current Activities</b><br><br>
-🔭 Learning <b>CUDA programming</b> & exploring <b>GPU optimization</b><br>
-💬 Ask me about <b>Python, React, JavaScript, and Unity</b><br>
-⚡ Fun fact: I love <b>game development</b>, building <b>GUIs</b>, and experimenting with <b>AI & parallel computing</b>  
+### 🚀 Current Activities
+
+ - 🔭 Learning <b>CUDA programming</b> & exploring <b>GPU optimization</b><br>
+ - 💬 Ask me about <b>Python, React, JavaScript, and Unity</b><br>
+ - 🎓 Education: <b>B.Sc. in Computer Science & Engineering (CSE)</b><br>
+<b>BRAC University (Current Student)</b><br>
+
 
 ---
 
@@ -71,11 +74,11 @@
 ## 📬 Connect with Me  
 
 <p>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:erfan.khan.cse@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/erfan-khan-23396a348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
