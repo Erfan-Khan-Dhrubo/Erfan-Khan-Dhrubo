@@ -6,7 +6,7 @@
 </p>
 <br><br>
 <a href="#macropower-title">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA1Mmo0ZHhzd3lvdXE1cXlpZ2E0bjFteTBuYTV0cHY3emdma2Q2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="macropower" align="right" width="300px"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnA1Mmo0ZHhzd3lvdXE1cXlpZ2E0bjFteTBuYTV0cHY3emdma2Q2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="macropower" align="right" width="250px"/>
 </a>
 
 <p>
